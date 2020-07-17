@@ -1,5 +1,5 @@
 # Blog-App-Using-Flask
-An website for posting blogs developed using HTML,CSS,Flask,MySql,Python.
+An website for posting blogs developed using HTML,CSS,Flask,MySql,Python,Javascript.
 
  **Pre-requisites**
  <HTML>
